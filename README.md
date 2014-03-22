@@ -1,4 +1,4 @@
-# Rhb (Ruby HTML builder)
+# Rhb (Ruby HTML builder) [![Gem Version](https://badge.fury.io/rb/rhb.png)](http://badge.fury.io/rb/rhb) [![Build Status](https://travis-ci.org/miraks/rhb.svg)](https://travis-ci.org/miraks/rhb) [![Code Climate](https://codeclimate.com/github/miraks/rhb.png)](https://codeclimate.com/github/miraks/rhb)
 
 Lightweight html from ruby code builder. Inspired by [Mab](https://github.com/camping/mab).
 
